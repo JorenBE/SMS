@@ -26,12 +26,6 @@ The field of metal-organic frameworks is expanding swiftly. Despite prolific wor
 
 ## Getting Started
 
-### Prerequisites
-
-Before using the dataset, ensure you have:
-- Python 3.7+ (if using data processing scripts)
-- Libraries such as `pandas`, `numpy`, and `scikit-learn` (for model development)
-
 ### Installation
 
 Clone this repository to your local machine:
