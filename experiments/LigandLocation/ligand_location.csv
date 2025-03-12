@@ -1,0 +1,136 @@
+ligand,Filename,Category,Ligand_Location_Word,Ligand_Location_Sentence,Ligand_Location_Chunck
+"(1R,3S)-1,2,2-trimethyl-3-(pyridin-4-ylcarbamoyl)cyclopentanecarboxylic acid",10.1039_c2jm15604k_0.pdf,chiralty,"Abstract, Introduction, Body",Abstract,"Abstract, Introduction, Body"
+"(1R, 3S)-1,2,2-trimethyl-3-(pyridin-3-ylmethylcarbamoyl)cyclopentanecarboxylic acid",10.1016_j.inoche.2007.01.001_0.pdf,chiralty,"Abstract, Body","Title, Abstract, Body","Abstract, Body"
+"1,2,2-trimethyl-3-(pyridin-4-ylcarbamoyl)cyclopentanecarboxylic acid",10.1021_cg101135r_0.pdf,chiralty,"Abstract, Introduction, Body","Abstract, Introduction, Body","Abstract, Introduction, Body"
+"(1R,3S)-1,2,2-trimethylcyclopentane-1,3-dicarboxylic acid",10.1021_ic502861k_0.pdf,chiralty,Body,Body,Not Found
+"benzene-1,4-dicarboxylic acid",10.1016_j.micromeso.2008.06.040_0.pdf,optimization,Body,Body,Body
+(2E)-but-2-enedioic acid,10.1039_c0jm03563g_1.pdf,optimization,"Introduction, Body",Body,Body
+"benzene-1,3,5-tricarboxylic acid",10.5935_0100-4042.20160068_0.pdf,optimization,"Abstract, Introduction, Body","Abstract, Body","Abstract, Introduction, Body"
+"benzene-1,3,5-tricarboxylic acid",10.1021_acssuschemeng.6b02115_0.pdf,optimization,Body,"Introduction, Body",Body
+"benzene-1,4-dicarboxylic acid",10.1021_acssuschemeng.6b02115_0.pdf,optimization,"Introduction, Body","Introduction, Body","Introduction, Body"
+2-methylimidazole,10.1016_j.ccr.2020.213407_0.pdf,review,"Abstract, Body","Abstract, Body",Not Found
+"2,5-dihydroxyterephthalic acid",10.1016_j.ccr.2020.213407_0.pdf,review,Not Found,Body,Not Found
+5-azidoisophthalic acid,10.1039_c8cy00579f_1.pdf,optimization,"Title, Abstract, Introduction, Conclusion, Body","Abstract, Body","Abstract, Introduction, Conclusion, Body"
+"1,3,5-tris(4-cyanophenylethynyl)benzene",10.1039_d0fd00003e_0.pdf,optimization,"Abstract, Introduction, Body","Abstract, Body","Abstract, Introduction, Body"
+"benzene-1,4-dicarboxylic acid",10.1021_acssuschemeng.0c05587_0.pdf,optimization,"Abstract, Introduction, Conclusion, Body",Body,"Introduction, Conclusion, Body"
+"benzene-1,4-dicarboxylic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,Body,Body,Body
+2-aminoterephthalic acid,10.1021_acs.inorgchem.5b00435_0.pdf,optimization,"Abstract, Introduction, Body","Introduction, Conclusion, Body",Body
+"2,5-dihydroxyterephthalic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,"Title, Abstract, Introduction, Conclusion, Body","Title, Introduction, Body",Body
+"1,2,4,5-benzenetetracarboxylic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,Body,Body,Body
+"2,5-diethyloxyterephthalic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,"Introduction, Body","Introduction, Conclusion, Body",Body
+"2,3,5,6-tetrafluoro-1,4-benzenedicarboxylic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,Body,Body,Body
+"benzene-1,2,3,4,5,6-hexacarboxylic acid",10.1021_acs.inorgchem.5b00435_0.pdf,optimization,Body,Body,Body
+"benzene-1,3,5-tricarboxylic acid",10.1016_j.poly.2019.06.017_0.pdf,optimization,"Introduction, Body","Abstract, Body","Title, Abstract, Introduction, Body"
+"4,5-dicyanoimidazole",10.1016_j.solidstatesciences.2022.106885_0.pdf,optimization,"Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body"
+"4-(3,5-dicarboxyphenyl)-2,2':4',4''-terpyridine",10.1021_acs.cgd.0c00879_0.pdf,optimization,"Abstract, Body",Not Found,"Abstract, Body"
+"2,5-Bis-(1H-1,2,4-triazol-1-yl) terephthalic acid",10.1039_d1ce01093j_0.pdf,optimization,"Abstract, Introduction, Conclusion, Body","Conclusion, Body","Abstract, Introduction, Conclusion, Body"
+"5,5'-(1,4-phenylenedi-2,1-ethinyl)bis(1,3-benzenedicarboxylic acid)",10.1021_cg4018536_0.pdf,optimization,"Conclusion, Body","Conclusion, Body","Conclusion, Body"
+"2, 5-dihydroxyterephthalic acid",10.1016_j.cej.2020.125080_0.pdf,review,"Conclusion, Body","Title, Introduction, Conclusion, Body",Body
+"trans-1,4-cyclo-hexanedicarboxylate",10.1016_j.cej.2020.125080_0.pdf,review,"Introduction, Conclusion, Body","Conclusion, Body","Introduction, Body"
+"4,4',4'',4'''-(5,10,15,20-porphyrintetrayl)tetrabenzoic acid",10.1016_j.cej.2020.125080_0.pdf,review,Not Found,"Conclusion, Body",Not Found
+"5-[(3,5-dicarboxyphenyl)methyl]benzene-1,3-dicarboxylic acid",10.1016_j.cej.2020.125080_0.pdf,review,Body,"Introduction, Body",Body
+"benzene-1,4-dicarboxylic acid",10.1002_anie.201108357_0.pdf,optimization,Body,Body,Not Found
+2-aminoterephthalic acid,10.1002_anie.201108357_0.pdf,optimization,"Title, Body","Abstract, Introduction, Conclusion, Body",Body
+"2,5-dihydroxyterephthalic acid",10.1021_acs.inorgchem.6b01060_0.pdf,optimization,"Abstract, Introduction, Conclusion, Body","Title, Abstract, Body","Abstract, Introduction, Body"
+2-aminoterephthalic acid,10.1002_chem.202005151_0.pdf,review,"Abstract, Introduction, Conclusion, Body","Introduction, Conclusion, Body","Abstract, Introduction, Conclusion, Body"
+"2,3,5,6-tetrafluoro-1,4-benzenedicarboxylic acid",10.1002_chem.202005151_0.pdf,review,Body,"Conclusion, Body",Body
+(E)-but-2-enedioic acid,10.1002_chem.202005151_0.pdf,review,Body,"Introduction, Conclusion, Body",Body
+"2,5-dihydroxyterephthalic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Introduction, Conclusion, Body","Introduction, Body"
+"benzene-1,2,4-tricarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Title, Introduction, Conclusion, Body",Body
+"benzene-1,4-dicarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Introduction, Conclusion, Body",Body
+"2,5-furandicarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body",Body,"Introduction, Conclusion, Body"
+2-aminobutanedioic acid,10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Title, Introduction, Conclusion, Body",Body
+butanedioic acid,10.1002_chem.202005151_0.pdf,review,"Introduction, Conclusion, Body","Introduction, Conclusion, Body","Introduction, Conclusion, Body"
+2-hydroxybutanedioic acid,10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Introduction, Conclusion, Body",Body
+"5-sulfo-1,4-benzenedicarboxylic acid",10.1002_chem.202005151_0.pdf,review,Body,"Conclusion, Body",Body
+"2,5-pyridinedicarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Conclusion, Body",Body
+"1H-Pyrazole-3,5-dicarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Introduction, Conclusion, Body",Body
+"benzene-1,3-dicarboxylic acid",10.1002_chem.202005151_0.pdf,review,"Introduction, Body","Introduction, Conclusion, Body",Body
+5-hydroxyisophthalic acid,10.1002_chem.202005151_0.pdf,review,"Introduction, Conclusion, Body","Conclusion, Body","Introduction, Body"
+"5-[(3,5-dicarboxyphenyl)methyl]benzene-1,3-dicarboxylic acid",10.1038_s41560-018-0261-6_1.pdf,optimization,Introduction,Not Found,Not Found
+"benzene-1,4-dicarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,Body,Body
+"2,6-naphthalenedicarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,"Introduction, Body","Introduction, Body"
+"N,N'-piperazinebismethylphosphonic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,"Introduction, Conclusion, Body",Body
+"benzene-1,3,5-tricarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,Body,Body
+"1,2,4,5-benzenetetracarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,Body,Body
+"4,4'-azobenzenedicarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,"Introduction, Body",Body
+"1,4-naphthalenedicarboxylic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,"Introduction, Body","Introduction, Body"
+"4,4',4'',4'''-(porphyrin-5,10,15,20-tetrayl)tetrabenzoic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,Body,Body
+2-aminoterephthalic acid,10.1021_acssuschemeng.9b01022_0.pdf,optimization,"Introduction, Conclusion, Body",Body,"Conclusion, Body"
+"4,4'-sulfonyldibenzoic acid",10.1021_acssuschemeng.9b01022_0.pdf,optimization,Body,Body,"Conclusion, Body"
+"benzene-1,3,5-tricarboxylic acid",10.1021_acssuschemeng.7b01429_0.pdf,optimization,"Introduction, Body",Body,"Introduction, Body"
+"6'-methoxyl-(8S,9R)-cinchonan-9-ol-3-carboxylic acid",10.1002_1521-3773(20011203)40:23<4422::aid-anie4422>3.0.co;2-g_0.pdf,chiralty,Body,"Abstract, Introduction, Conclusion",Body
+"2-(4,5-dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-5-ethyl-3-pyridinecarboxylic acid",10.1039_b806255b_0.pdf,chiralty,"Abstract, Body","Abstract, Body",Body
+"9,9-bis((S)-2-methylbutyl)-9H-fluorene-2,7-dicarboxylic acid",10.1039_c7ce00108h_0.pdf,chiralty,"Conclusion, Body","Title, Conclusion, Body","Conclusion, Body"
+"4,4'-(9,9-bis((S)-2-methylbutyl)-9H-fluorene-2,7-diyl)-dibenzoic acid",10.1039_c7ce00108h_0.pdf,chiralty,Body,Body,Body
+"3,3'-(9,9-bis((S)-2-methylbutyl)-9H-fluorene-2,7-diyl)-dibenzoic acid",10.1039_c7ce00108h_0.pdf,chiralty,Body,Body,Body
+"5,5'-(9,9-bis((S)-2-methylbutyl)-9H-fluorene-2,7-diyl)-diisophthalic acid",10.1039_c7ce00108h_0.pdf,chiralty,Body,Body,Body
+"(1R,2R,4R,5R)-2,5-bis(((R)-1-phenylethyl)amino)bicyclo[2.2.2]octane-1,4-dicarboxylic acid",10.1039_c7ce00410a_0.pdf,chiralty,Introduction,"Introduction, Body",Introduction
+"(4R,5R)-2,2-dimethyl-5-[(4-pyridinyl amino)carbonyl]-1,3-dioxolane-4-carboxylic acid ",10.1038_35010088_0.pdf,chiralty,Not Found,Body,Not Found
+"(4S,5S)-2,2-dimethyl-5-[(4-pyridinyl amino)carbonyl]-1,3-dioxolane-4-carboxylic acid ",10.1038_35010088_0.pdf,chiralty,Not Found,Body,Not Found
+"(2R,3R)-2,3-bis[(4-methylbenzoyl)oxy]succinic acid",10.1039_c9ra06920h_0.pdf,chiralty,Not Found,"Abstract, Body",Not Found
+"(S)-2,2'-diethoxy-1,1'-binaphthyl-6,6'-bis(4-vinylpyridine)",10.1021_ic060891x_0.pdf,chiralty,"Abstract, Introduction, Body","Title, Abstract, Introduction, Body","Abstract, Introduction, Body"
+"6,6'-dichloro-2,2'-diethoxy-1,1'-binaphthalene-4,4'-bis(4-benzoic acid)",10.1002_ange.200461214_0.pdf,chiralty,Body,Body,Body
+"6,6'-dichloro-2,2'-dibenzyloxy-1,1'-binaphthalene-4,4'-bis(4-benzoic acid)",10.1002_ange.200461214_0.pdf,chiralty,Body,Not Found,Body
+"2,2'-dimethoxy-1,1'-binaphthyl-3,3'-bis(4-vinylpyridine)",10.1039_B403609C_1.pdf,chiralty,"Abstract, Body","Abstract, Body",Body
+"2,2'-diethoxy-1,1'-binaphthalene-6,6'-bisphosphonic acid",10.1021_cm0202714_0.pdf,chiralty,"Abstract, Introduction, Conclusion, Body","Title, Body","Abstract, Conclusion, Body"
+"(S)-1,1'-binaphthyl-2,2'-dihydroxy-6,6'-dicarboxylic acid",10.1039_c5ra26520g_1.pdf,chiralty,"Introduction, Body",Body,"Abstract, Introduction, Body"
+"(R)-1,1'-binaphthyl-2,2'-dihydroxy-6,6'-dicarboxylic acid",10.1039_c5ra26520g_1.pdf,chiralty,"Introduction, Body",Body,"Abstract, Introduction, Body"
+"(S)-1,1'-binaphthyl-2,2'-dimethoxy-6,6'-dicarboxylic acid",10.1039_c5ra26520g_1.pdf,chiralty,"Introduction, Body",Body,"Abstract, Introduction, Body"
+"(R)-1,1'-binaphthyl-2,2'-dimethoxy-6,6'-dicarboxylic acid",10.1039_c5ra26520g_1.pdf,chiralty,"Introduction, Body",Body,"Abstract, Introduction, Body"
+"(R)-2,2'-dihydroxy-1,1'-binaphthyl-5,5'-dibenzoic acid",10.1039_c4ce02210f_0.pdf,chiralty,"Title, Abstract, Body","Title, Body","Title, Abstract, Body"
+"(R)-2,2'-dimethoxy-1,1'-binaphthyl-5,5'-dibenzoic acid",10.1039_c4ce02210f_0.pdf,chiralty,"Title, Abstract, Body","Title, Introduction, Body","Title, Abstract, Body"
+"(R)-2,2'-diethoxy-1,1'binaphthyl-4,4',6,6'-tetracarboxylic acid",10.1038_NCHEM.738_0.pdf,chiralty,Body,"Conclusion, Body",Body
+"(R)-(2E,2'E,2''E,2'''E)-3,3',3'',3'''-(2,2'-diethoxy-1,1'-binaphthyl-4,4',6,6'-tetrayl)tetraacrylic acid",10.1038_NCHEM.738_0.pdf,chiralty,Not Found,Not Found,Not Found
+"(R)-4,4',4'',4'''-(1E,1'E,1''E,1'''E)-2,2',2'',2'''-(2,2'-diethoxy-1,1'-binaphthyl-4,4',6,6'-tetrayl)- tetrakis(ethene-2,1-diyl)tetrabenzoic acid",10.1038_NCHEM.738_0.pdf,chiralty,Not Found,Not Found,Not Found
+"(R)-2,2'-dihydroxy-1,1'-binaphthyl-4,4',6,6'-tetracarboxylic acid",10.1038_NCHEM.738_0.pdf,chiralty,Body,"Conclusion, Body",Body
+"(R)-(2E,2'E,2''E,2'''E)-3,3',3'',3'''-(2,2'-dihydroxy-1,1'-binaphthyl-4,4',6,6'-tetrayl)tetraacrylic acid",10.1038_NCHEM.738_0.pdf,chiralty,Not Found,Not Found,Not Found
+"(R)-2,2'-dihydroxy-1,1'-dinaphthyl-4,4',6,6'-tetrakis(4-benzoic acid)",10.1038_NCHEM.738_0.pdf,chiralty,Body,Body,Not Found
+"(R)-3,3'-bis(6-carboxy-2-naphthyl)-2,2'-dihydroxy-1,1'-binaphthyl",10.1039_c8ce01791c_1.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Body","Title, Abstract, Introduction, Conclusion, Body"
+"2,2'-dihydroxy-1,1'-binaphthyl-6,6'-bis(phosphonic acid)",10.1016_j.molcata.2004.01.022_0.pdf,chiralty,"Abstract, Body","Title, Conclusion, Body","Abstract, Body"
+"2,2'-dihydroxy-1,1'-binaphthyl-6,6'-bis(vinylphosphonic acid)",10.1016_j.molcata.2004.01.022_0.pdf,chiralty,"Abstract, Body","Introduction, Conclusion, Body",Body
+"2,2'-dihydroxy-1,1'-binaphthyl-6,6'-bis(styrylphosphonic acid)",10.1016_j.molcata.2004.01.022_0.pdf,chiralty,"Abstract, Body","Conclusion, Body",Body
+"2,2'-diethoxy-1,1'-binaphthyl-6,6'-bis(styrylphosphonic acid)",10.1016_j.molcata.2004.01.022_0.pdf,chiralty,"Abstract, Body","Title, Conclusion, Body",Body
+"(R)-4,4'-bis(4-carboxyphenylethynyl)-2,2'-bis(diphenylphosphino)-1,1'-binaphthyl",10.1021_ja500090y_0.pdf,chiralty,Body,Not Found,Body
+"tris((4-carboxyl)phenyl(2,4,5-trimethylphenyl))borane",10.1021_ic9002675_0.pdf,chiralty,"Introduction, Body",Body,Body
+"4,4',4'',4'''-benzene-1,2,4,5-tetrayltetrabenzoic acid",10.1021_acs.cgd.8b00439_0.pdf,optimization,"Introduction, Body","Title, Body",Body
+"2,4,6-tris(3,5-dicarboxylphenylamino)-1,3,5-triazine",10.1021_acs.inorgchem.2c01893_0.pdf,optimization,"Abstract, Introduction, Body","Abstract, Introduction, Body","Abstract, Introduction, Body"
+"2,4,6-tris(4-carboxylphenylamino)-1,3,5-triazine",10.1021_acs.inorgchem.2c01893_0.pdf,optimization,"Abstract, Introduction, Body","Abstract, Introduction, Body","Abstract, Introduction, Body"
+"benzene-1,3,5-tricarboxylic acid",10.1007_s10934-014-9883-7_0.pdf,optimization,"Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Body","Abstract, Introduction, Conclusion, Body"
+2H-imidazole carbaldehyde,10.3390_molecules26061573_0.pdf,optimization,"Abstract, Introduction, Body","Introduction, Body","Introduction, Body"
+"2,5-furandicarboxylic acid",10.1021_acs.inorgchem.6b02969_0.pdf,optimization,"Title, Abstract, Introduction, Conclusion, Body","Title, Body","Title, Abstract, Introduction, Conclusion, Body"
+"benzene-1,4-dicarboxylic acid",10.1007_s10853-017-1658-5_0.pdf,optimization,"Introduction, Conclusion, Body",Body,"Introduction, Body"
+"2,5-dihydroxyterephthalic acid",10.1039_c9dt01572h_1.pdf,optimization,"Abstract, Introduction, Body",Body,"Introduction, Body"
+"3,3'-dihydroxy-[1,1'-biphenyl]-4,4'-dicarboxylic acid",10.1039_d1dt01945g_1.pdf,optimization,"Introduction, Body","Introduction, Conclusion, Body","Introduction, Body"
+2-methylimidazole,10.1039_d1ma00139f_1.pdf,optimization,"Abstract, Introduction, Conclusion, Body",Body,"Introduction, Body"
+"(S)-2,2'-dihydroxy-6,6'-dimethyl-[1,1'-biphenyl]-4,4'-dicarboxylic acid",10.1021_acscatal.8b04827_0.pdf,chiralty,Body,Body,Body
+"(R)-3,3'-bipyridine-5,5',6,6'-tetramethyl-2,2'-dimethoxy-1,1'-biphenyl",10.1021_ja901154p_0.pdf,chiralty,"Abstract, Body",Body,"Abstract, Body"
+"3,3',5,5'-tetrachloro-4,4'-bipyridine",10.1039_c6ra28197d_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body"
+"3,3',5,5'-tetrabromo-4,4'-bipyridine",10.1039_c6ra28197d_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body"
+"3,5-dichloro-3',5'-diiodo-4,4'-bipyridine",10.1039_c6ra28197d_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Abstract, Body","Title, Abstract, Introduction, Body"
+"3,5-dibromo-3',5'-diiodo-4,4'-bipyridine",10.1039_c6ra28197d_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Abstract, Introduction, Body","Title, Abstract, Introduction, Body"
+"3,3'-dibromo-5,5'-bis(4-methoxyphenyl)-4,4'-bipyridine",10.1039_c6ra28197d_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body","Title, Abstract, Introduction, Body"
+"(S)-3,3'-di-tert-butyl-5,5'-dicarboxyphenyl-6,6'-dimethylbiphenyl-2,2'-diylhydrogen phosphate",10.1038_s41467-017-02335-0_4.pdf,chiralty,Body,Body,Body
+"(R)-3,3'-di-tert-butyl-5,5'-dicarboxyphenyl-6,6'-dimethylbiphenyl-2,2'-diylhydrogen phosphate",10.1038_s41467-017-02335-0_4.pdf,chiralty,Body,Body,Body
+"(R)-7,7,7',7'-tetramethyl-6,6',7,7'-tetrahydro-3H,3'H-5,5'-spirobi[indeno[5,6-d]-[1,2,3]triazole]",10.1039_d0dt02847a_0.pdf,chiralty,"Abstract, Introduction",Abstract,Abstract
+"3'-[(E)-{[(1S,2S)-2-aminocyclohexyl]imino}-methyl]-4'-hydroxy-4-biphenylcarboxlic acid",10.1002_chem.201104001_0.pdf,chiralty,"Title, Abstract, Introduction, Conclusion","Title, Introduction, Conclusion, Body","Title, Introduction, Conclusion"
+"3-[(E)-{[(1R,2R)-2-aminocyclohexyl]imino}methyl]-4-hydroxybenzoic acid",10.1002_chem.200900037_0.pdf,chiralty,"Abstract, Body","Abstract, Body",Body
+2-aminoterephthalic acid,10.1039_d2qi01198k_2.pdf,optimization,"Introduction, Body","Title, Introduction, Body","Introduction, Body"
+2-nitroterephthalic acid,10.1039_d2qi01198k_2.pdf,optimization,Body,Body,"Introduction, Body"
+"1,2,4-benzenetricarboxylic acid",10.1039_d2qi01198k_2.pdf,optimization,Body,Not Found,Body
+2-bromoterephthalic acid,10.1039_d2qi01198k_2.pdf,optimization,Body,"Title, Body","Introduction, Body"
+"2,5-dihydroxyterephthalic acid",10.1039_d2qi01198k_2.pdf,optimization,Body,"Title, Body","Introduction, Body"
+"(R,R)-(-)-N,N'-bis(3-tert-butyl-5-(4-pyridyl) salicylidene)-1,2-diamino-cyclohexane)",10.1021_ja078317n_0.pdf,chiralty,Body,"Title, Body",Body
+(S)-(N-pyridin-2-ylmethyl)lactamide,10.1039_b316393h_0.pdf,chiralty,"Abstract, Introduction, Body","Title, Body","Abstract, Body"
+(S)-N-(2-dimethylaminoethyl)lactamide,10.1039_b316393h_0.pdf,chiralty,"Abstract, Body","Title, Abstract, Body","Abstract, Body"
+(S)-N-(3-dimethylaminopropyl)lactamide,10.1039_b316393h_0.pdf,chiralty,"Abstract, Introduction, Body","Title, Abstract, Body","Abstract, Body"
+(R)-4-(4-(1-carboxyethoxy)phenoxy)-3-fluorobenzoic acid,10.1021_cg500197v_0.pdf,chiralty,"Title, Abstract, Introduction, Body","Title, Body","Title, Abstract, Introduction, Body"
+(R)-4-(4-(1-carboxyethoxy)phenoxy)-3-chlorobenzoic acid,10.1021_acs.cgd.6b00593_0.pdf,chiralty,"Title, Introduction, Conclusion, Body","Title, Conclusion, Body","Title, Introduction, Conclusion, Body"
+(R)-2-(4'-(4''-carboxybenzyloxy)phenoxy)propanoic acid,10.1039_c2dt30863k_1.pdf,chiralty,"Title, Abstract, Introduction, Conclusion, Body","Title, Conclusion, Body","Title, Abstract, Introduction, Conclusion, Body"
+"(R,R)-2,2'-((5-(methoxycarbonyl)-1,3-phenylene)bis(oxy))-dipropanoic acid",10.1021_acs.cgd.6b01763_0.pdf,chiralty,"Title, Introduction, Conclusion, Body","Title, Conclusion, Body","Title, Introduction, Conclusion, Body"
+(S)-5-(1-carboxyethoxymethyl)-isophthalic acid,10.1039_c7ra08433a_1.pdf,chiralty,"Abstract, Introduction, Conclusion, Body","Abstract, Conclusion, Body","Abstract, Introduction, Conclusion, Body"
+"(S)-4'-(1-carboxyethoxy)-[1,1'-biphenyl]-4-carboxylic acid",10.1039_c7ra00337d_0.pdf,chiralty,"Abstract, Introduction, Body","Abstract, Body","Abstract, Introduction, Body"
+(S)-6-(1-carboxyethoxy)-2-naphthoic acid,10.1039_c7ra00337d_0.pdf,chiralty,"Abstract, Introduction, Body",Body,"Abstract, Introduction, Body"
+"4'-(1-carboxyethoxy)-[1,1'-biphenyl]-3,5-dicarboxylic acid",10.1039_c9nj05766h_1.pdf,chiralty,"Abstract, Introduction, Body","Abstract, Conclusion, Body","Abstract, Introduction, Body"
+"N,N'-bis(4-cyanophenyl)-(1R,2R)-diaminocyclohexane",10.1021_cg049781w_0.pdf,chiralty,"Abstract, Introduction","Abstract, Body","Abstract, Introduction"
+"N,N'-bis(4-cyanophenyl)-(1R,2R)-diaminocyclohexane",10.1039_b316931f_0.pdf,chiralty,Body,Body,Body
